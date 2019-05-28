@@ -9,23 +9,28 @@ import javax.script.ScriptEngineManager;
 import javax.script.ScriptException;
 
 public class NashApp {
-  /** Las siguiente declaracion de variables.
-   *ScriptEngineManager = para ejecutar código JavaScript
-   *ScriptEngine = Permite ejecutar / evaluar declaraciones en un idioma diferente.
-   *Invocable = Es una interface
-   *  */
+
+  /**
+   * Las siguiente declaracion de variables. ScriptEngineManager = para ejecutar código JavaScript.
+   * ScriptEngine = Permite ejecutar / evaluar declaraciones en un idioma diferente. Invocable = Es
+   * una interface.
+   */
   private ScriptEngineManager eme;
   private ScriptEngine eee;
   private Invocable invocador;
 
-  /**El sgt metodo es un constructor sin parametros.*/
+  /**
+   * El sgt metodo es un constructor sin parametros.
+   */
   public NashApp() {
     eme = new ScriptEngineManager();
     eee = eme.getEngineByName("nashorn");
     invocador = (Invocable) eee;
   }
 
-  /** El sgt metodo realiza el llamado a varias fuentes.*/
+  /**
+   * El sgt metodo realiza el llamado a varias fuentes.
+   */
   public void llamarFunciones()
       throws ScriptException, FileNotFoundException, NoSuchMethodException {
     //e.eval("print('SJ desde Java')");
@@ -38,7 +43,9 @@ public class NashApp {
     System.out.println(rpst2);
   }
 
-  /** */
+  /**
+   * En el siguiente metodo Se utiliza un archivo js y se implementa el uso de hilos.
+   */
   public void implementarInterfaz() throws Exception {
     eee.eval(new FileReader("src/main/java/archivosJavaScrip/archivo.js"));
 
@@ -52,6 +59,9 @@ public class NashApp {
     th2.start();
   }
 
+  /**
+   * El siguiente es el metodo principal.
+   */
   public static void main(String[] args) throws Exception {
     NashApp app = new NashApp();
     app.implementarInterfaz();

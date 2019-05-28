@@ -4,57 +4,57 @@ import interfacePrimerosEjercicios.Operacion;
 
 public class Scopes {
 
-	public static double atributo1;
-	public  double atributo2;
-	
-	
-	
-	public static void main(String[] args) {
-		Scopes scopes= new Scopes();
-		// System.out.println(scopes.probarSintaxis());
-		System.out.println(scopes.probarAtributosStaticVariables());
-	}
+  public static double atributo1;
+  public double atributo2;
 
-	
-	private double probarAtributosStaticVariables() {
-		Operacion op = new Operacion() {
+  /**Metodo principal.
+ * Realiza el llamado a los otros metodos */
+  public static void main(String[] args) {
+    Scopes scopes = new Scopes();
+    // System.out.println(scopes.probarSintaxis());
+    System.out.println(scopes.probarAtributosStaticVariables());
+  }
 
-			@Override
-			public double calcularPromedio(double n1, double n2) {
-				atributo1 = n1+n2;
-				atributo2 = atributo1;
-				return atributo2;
-			} 
-		};
-		
-		
-		
-		Operacion operacion = (x, y) -> {
-			atributo1 = x+y;
-			atributo2 = atributo1;
-			return atributo2;
-		};
-		
-		return op.calcularPromedio(3, 2);
-	}
+  /**Metodo probarAtributosStaticVariables.
+   * Realiza el llamado a una interface e implementa su metodo */
+  private double probarAtributosStaticVariables() {
+    Operacion op = new Operacion() {
+
+      @Override
+      public double calcularPromedio(double n1, double n2) {
+        atributo1 = n1 + n2;
+        atributo2 = atributo1;
+        return atributo2;
+      }
+    };
+
+    Operacion operacion = (x, y) -> {
+      atributo1 = x + y;
+      atributo2 = atributo1;
+      return atributo2;
+    };
+
+    return op.calcularPromedio(3, 2);
+  }
+
+  /**Metodo probarAtributosStaticVariables.
+   * Realiza el llamado a una interface e implementa su metodo */
+  private double probarSintaxis() {
+    double n3 = 3;
+
+    Operacion op = new Operacion() {
+      @Override
+      public double calcularPromedio(double n1, double n2) {
+
+        return n1 + n2 + n3;
+      }
+    };
+
+    Operacion operacion = (x, y) -> {
+      return x + y + n3;
+    };
+    return op.calcularPromedio(1, 1);
+  }
 
 
-	private double probarSintaxis() {
-	double n3 = 3;
-	
-	Operacion op = new Operacion() {
-		@Override
-		public double calcularPromedio(double n1, double n2) {
-		
-			return  n1+n2+n3;
-		}
-	};
-	
-	Operacion operacion = (x,y) -> {
-		return  x + y + n3;
-	};
-	return op.calcularPromedio(1, 1);
-	}
-	
-	
 }

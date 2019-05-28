@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2806d1-089b-4a05-bf0a-038ef8c1176a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/archivosJavaScrip/archivo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/archivosJavaScrip/archivo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/archivosJavaScrip/java.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/archivosJavaScrip/java.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Anotaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Anotaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ColeccionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ColeccionApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/DefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FechasConDateApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FechasConDateApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FuncInterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FuncInterApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FuncionesAgregada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/FuncionesAgregada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/HighApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/HighApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/LambdaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/LambdaApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/MeReApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/MeReApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/NashApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/NashApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/OptionalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/OptionalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ParallelStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ParallelStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/RxApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/RxApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Scopes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Scopes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/StreamsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/StreamsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/Operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/Operacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersomaB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersomaB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersonaA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersonaA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/PersonaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfacesFuncionales/PersonaInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mitocode/java8/java8mito/Anotaciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mitocode/java8/java8mito/Anotaciones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mitocode/java8/java8mito/ColeccionApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mitocode/java8/java8mito/ColeccionApp.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,20 +31,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/NashApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +51,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/LambdaApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/MeReApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/NashApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/OptionalApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ParallelStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Persona.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/RxApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Scopes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/StreamsApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/Operacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersonaA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersomaB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfacesFuncionales/PersonaInterface.java" />
       </list>
     </option>
   </component>
@@ -84,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -147,6 +146,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ColeccionApp">
+  <component name="RunManager" selected="Application.RxApp">
     <configuration name="ColeccionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mitocode.java8.java8mito.ColeccionApp" />
       <module name="java8mito" />
@@ -224,8 +224,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mitocode.java8.java8mito.RxApp" />
+      <module name="java8mito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mitocode.java8.java8mito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RxApp" />
         <item itemvalue="Application.ColeccionApp" />
         <item itemvalue="Application.FechasConDateApi" />
         <item itemvalue="Application.DefaultMethod" />
@@ -251,25 +265,32 @@
       <workItem from="1558133003501" duration="116000" />
       <workItem from="1558133156760" duration="7000" />
       <workItem from="1558133184433" duration="10000" />
-      <workItem from="1558973048905" duration="14861000" />
+      <workItem from="1558973048905" duration="16040000" />
+      <workItem from="1559053345923" duration="7107000" />
     </task>
+    <task id="LOCAL-00001" summary="Comentando metodo por metodo para tratar de comprender los ejercicios a totalidad">
+      <created>1558995235775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558995235775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17058000" />
+    <option name="totallyTimeSpent" value="25344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="CheckStyle" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
@@ -283,6 +304,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" visible="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -297,31 +319,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comentando metodo por metodo para tratar de comprender los ejercicios a totalidad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comentando metodo por metodo para tratar de comprender los ejercicios a totalidad" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/RxApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Anotaciones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -332,13 +338,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersomaB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -415,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/MeReApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -431,13 +423,6 @@
             <element signature="e#254#255#0" expanded="true" />
             <element signature="e#304#305#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/javax/script/Invocable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -455,12 +440,143 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/javax/script/Invocable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/NashApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="137">
+          <caret line="62" column="41" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/OptionalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/ParallelStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8-sources.jar!/rx/functions/Action1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/RxApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="89" column="17" lean-forward="true" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Scopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/Anotaciones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mitocode/java8/java8mito/StreamsApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/Operacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacesFuncionales/PersonaInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacesFuncionales/Operacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersonaA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfacePrimerosEjercicios/PersomaB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
